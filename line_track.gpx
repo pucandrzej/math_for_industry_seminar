@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox https://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<trk>
+		<name></name>
+		<desc>Length: 1.508 km (0.937 mi)</desc>
+		<trkseg>
+			<trkpt lat="51.1076986" lon="17.0394301"></trkpt>
+			<trkpt lat="51.1114707" lon="17.0601797"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
